@@ -11,29 +11,6 @@ int aa[5];
 
 int main(void)
 {
-    // cout << "podaj trzy liczby podzeilone spacja: ";
-    // cin >> a >> b>> c;
-
-    // if (a > b && a > c)
-    // {
-    //     cout << "Najwieksza z nich to: " << a;
-    // }
-    // else if (b > a && b > c)
-    // {
-    //     cout << "Najwieksza z nich to: " << b;
-    // }
-    // else if (c > a && c > b)
-    // {
-    //     cout << "Najwieksza z nich to: " << c;
-    // }
-    // else
-    // {
-    //     cout << "Sa rowne";
-    // }
-    
-    // m = a;
-    // if (b>m) m = b;
-    // if (c>m) m = c;
 
     for (int i = 1; i <= n; i++)
     {
